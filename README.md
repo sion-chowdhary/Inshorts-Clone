@@ -1,6 +1,6 @@
 # Inshorts Clone - MERN Stack
 
-![Inshorts Clone](url_to_your_logo.png)
+![Inshorts Clone]
 
 ## Overview
 
