@@ -1,7 +1,5 @@
 # Inshorts Clone - MERN Stack
 
-![Inshorts Clone]
-
 ## Overview
 
 This project is a clone of Inshorts, a news aggregation platform that provides brief and concise news summaries. It is built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js.
